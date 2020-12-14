@@ -36,6 +36,11 @@ The materials we used are as follows:
 
 RORRIM's central computer is a Raspberry Pi. A Raspberry Pi Camera is used for facial recognition. A passive infrared (PIR) sensor is used for motion detection. When connecting the PIR Sensor, connect the input pin to pin 22, as mentioned in **/face/SensorLED.py**
 
+To run, type the following command in your terminal:
+```bash
+python home_screen.py
+```
+
 ## Contributing
 RORRIM consists of the following members:
 * Carissa Sevaston
