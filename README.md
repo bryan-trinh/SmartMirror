@@ -43,7 +43,7 @@ To run, type the following command in your terminal:
 python home_screen.py
 ```
 
-## Contributing
+## Contributors
 RORRIM consists of the following members:
 * Carissa Sevaston
 * Johnathan Tang
