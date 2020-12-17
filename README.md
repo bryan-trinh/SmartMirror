@@ -4,6 +4,10 @@ Smart Mirror RORRIM is a health-centric smart mirror that incorporates non-invas
 
 Please refer to **RORRIM Poster.pdf** and **RORRIM Report.pdf** for more information
 
+
+Please watch **RORRIM Demo.mov** for our submission for Fall Design Review 2020
+
+
 Our current implementation has the following:
 * Displays a home screen with standard smart mirror widgets, such as time and weather
 * Displays simple health information from Fitbit: heart rate and step count
