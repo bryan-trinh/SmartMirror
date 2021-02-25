@@ -1,5 +1,7 @@
 # Smart Mirror RORRIM
 
+*THIS IS AN ARCHIEVED VERSION OF THE PROJECT, LAST UPDATED IN DECEMEBER 2020*
+
 Smart Mirror RORRIM is a health-centric smart mirror that incorporates non-invasive devices to help end-users monitor health information such as: sleep cycle, step count, BPM, etc.
 
 Please refer to **RORRIM Poster.pdf** and **RORRIM Report.pdf** for more information
